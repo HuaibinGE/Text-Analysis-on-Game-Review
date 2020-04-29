@@ -2,7 +2,7 @@
 This is the final project of course COSC189: Data Mining
 
 
-Author: Weiyi Wu, Boran Lu, Huaibin Ge, Mengdan Zhu
+Author: Huaibin Ge, Weiyi Wu, Boran Lu, Mengdan Zhu
 
 ## Purpose:
 * Build a binary sentiment classifier to predict game reviews as positive and negative
