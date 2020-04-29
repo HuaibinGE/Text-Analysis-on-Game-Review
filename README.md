@@ -20,4 +20,4 @@ Data was mainly scraped from [Steam Community](https://steamcommunity.com/app) a
 ### Topic Modelling
 * Latent Dirichlet Allocation(LDA)
 
-More information in the [Report](https://github.com/HuaibinGE/Text-Analysis-on-Game-Review/edit/master/Final Report)
+More information in the [Report](https://github.com/HuaibinGE/Text-Analysis-on-Game-Review/blob/master/Final%20Report.pdf)
