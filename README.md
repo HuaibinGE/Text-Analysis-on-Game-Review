@@ -5,9 +5,9 @@ This is the final project of course COSC189: Data Mining
 Author: Weiyi Wu, Boran Lu, Huaibin Ge, Mengdan Zhu
 
 ## Purpose:
-* build a binary sentiment classifier to predict game reviews as positive and negative
-* build a topic model to explore user preferences using recommended and not recommended reviews respectively
-* generate predictive scores about games to evaluate games
+* Build a binary sentiment classifier to predict game reviews as positive and negative
+* Build a topic model to explore user preferences using recommended and not recommended reviews respectively
+* Generate predictive scores about games to evaluate games
 ## Data
 ### Data Scrapting
 Data was mainly scraped from [Steam Community](https://steamcommunity.com/app) and [Steam Database](https://steamdb.info/graph/)
